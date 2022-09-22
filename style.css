@@ -87,6 +87,7 @@ select {
 }
 
 #Message-Container {
+    padding: 5rem;
     visibility: hidden;
     color: white;
     display: block;
@@ -177,4 +178,8 @@ select {
      input, select{
          width: 120px;
      }
+ }
+
+ #btn-primary{
+    background-color: #23A6D5;
  }
